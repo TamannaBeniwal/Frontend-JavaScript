@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Tamanna",
+      "section": "b",
+      "marks": 85,
+      "id": "1"
+    },
+    {
+      "id": "dead",
+      "name": "rishu",
+      "section": "H",
+      "marks": 93
+    },
+    {
+      "id": "8c69",
+      "name": "bhavya",
+      "section": "H",
+      "marks": 90
+    },
+    {
+      "id": "14f4",
+      "name": "kirti",
+      "section": "h",
+      "marks": 67
+    }
+  ]
+}
